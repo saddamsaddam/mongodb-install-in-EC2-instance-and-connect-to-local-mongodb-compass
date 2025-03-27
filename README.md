@@ -1,0 +1,1 @@
+# mongodb-install-in-EC2-instance-and-connect-to-local-mongodb-compass
